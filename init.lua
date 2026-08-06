@@ -1,6 +1,6 @@
 -- My configs
-require("myplugins")
 require("core")
+require("myplugins")
 require("ui")
 require("mappings")
 require("lsp")
